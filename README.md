@@ -1,2 +1,2 @@
 # resturantweb
-this repos contain a information related to a foo ordering website
+this repos contain a information related to a food ordering website
